@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Pepe se la come!
-image: /img/home-jumbotron.jpg
+image: /img/agronomos.webp
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Aguante el manya!
 mainpitch:
   title: Why Kaldi
   description: >
